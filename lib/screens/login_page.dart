@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:testing_project/models/newFun.dart';
 import 'package:testing_project/screens/home_page.dart';
-import 'package:testing_project/screens/onboarding_page.dart';
+
 import 'package:testing_project/screens/register_page.dart';
 
 class LoginPage extends StatefulWidget {

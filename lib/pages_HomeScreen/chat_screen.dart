@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testing_project/pages_HomeScreen/home_screen.dart';
-import 'package:testing_project/screens/home_page.dart';
+
 import 'package:testing_project/screens/onboarding_page.dart'; // تأكد من استيراد صفحة HomeScreen
 
 class ChatScreen extends StatelessWidget {
